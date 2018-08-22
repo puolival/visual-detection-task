@@ -1,7 +1,22 @@
-# visual-detection-task
+# Threshold visual detection task
 
+This is a repository for a MATLAB implementation of a threshold visual 
+detection task to be used in neurophysiological research. The task has been 
+developed at the Neuroscience Center of University of Helsinki in the 
+research groups of Matias Palva and Satu Palva. The groups have a long 
+history of performing threshold detection tasks [1–7], and there are 
+several different version of the basic experiment. This particular 
+implementation has been written by Tuomas Puoliväli with two upcoming 
+experiments in mind, one focused on circadian rhythms and one on 
+closed-loop stimulation. Compared to the previous studies, the current 
+task is most similar to the versions used in [4] and [7].
 
-# References
+The task is built using <a href="http://psychtoolbox.org/">PsychToolbox</a> 
+and <a href="http://www.palamedestoolbox.org/">Palamedes</a>. There are also 
+functions for <a href="http://vpixx.com/products/tools-for-vision-sciences/display-drivers/datapixx/">DataPixx</a>
+from VPixx Technologies.
+
+## References
 
 [1] Linkenkaer-Hansen K, Nikulin VV, Palva S, Ilmoniemi RJ, Palva JM (2004):
 Prestimulus oscillations enhance psychophysical performance in humans. 
