@@ -2,7 +2,7 @@
 
 This is a repository for a MATLAB implementation of a threshold visual 
 detection task to be used in neurophysiological research. The task has been 
-developed at the Neuroscience Center of University of Helsinki in the 
+developed at the <a href="https://www.helsinki.fi/en/helsinki-institute-of-life-science/units/neuroscience-center">Neuroscience Center</a> of University of Helsinki in the 
 research groups of Matias Palva and Satu Palva. The groups have a long 
 history of performing threshold detection tasks [1–7], and there are 
 several different version of the basic experiment. This particular 
